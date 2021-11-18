@@ -1,0 +1,17 @@
+{
+  "name": "aboutYouAutoTests-e2e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^8.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "scripts": {
+    "cy:de": "cypress run -b chrome --headed --env fileConfig=shopSiteDE",
+    "cy:at": "cypress run -b chrome --headed --env fileConfig=shopSiteAT"
+  }
+}
+
+

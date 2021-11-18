@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://en.aboutyou.de",
+    "env": {
+        "environment": "de",
+        "email": "test@test-123.com",
+        "password": "123123123",
+        "product": "Brush 'Expert Face'"
+    }
+}
+

@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://aboutyou.at",
+    "env": {
+        "environment": "at",
+        "email": "test-123@test.com",
+        "password": "123123123",
+        "product": "Bodylotion 'VERBENA & MARJORAM'"
+    }
+}
+
